@@ -16,7 +16,11 @@ public class Main15 {
 		Scanner  input = new Scanner(System.in);
 		int n = input.nextInt();
 		
-		Pattern195 call = new Pattern195(n);
+		//Pattern195 call = new Pattern195(n);
+		//Pattern196 call = new Pattern196(n);
+		//Pattern197 call = new Pattern197(n);
+		Pattern200 call = new Pattern200(n);
+
 
 	}
 
